@@ -47,3 +47,15 @@ text-transform:uppercase (CAPITALS), text-transform:lowercase (lowercase), text-
 Whenever you add a new feature.
 36. What is the command we would use to push our repo up to github? Git push
 37. Walk me through Lambda's git flow. Fork a project, add a collaborator, using Git and Git-hub clone the project in the Directory you desire. Then create branch in Git. Update project files: Git add . , Git commit -m “Describe changes here”, Git push. Pull request then add reviewer. 
+
+Stretch Questions
+
+1.	What is the difference between an inline element and a block element? A block element takes up the entire line/width of a page. Where an in-line element can function within a block element ex. Spans and anchor tags. Ex. of Block Elements are Divs, P, h1,.
+
+2. What happens when an element is positioned absolutely? It remains in one area of the viewport however all other elements ignore it’s space and sometimes end up underneath. For instance while scrolling words may go underneath it on the page.
+
+3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? By giving the width a percentage so it can be more responsive. 
+
+4. Name 3 elements that are display block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default. Display Block: Divs, P, h1,. Inline : anchor tags and spans. Inline-block: IMG (images).
+
+5. In your own words, explain the box model. What is the fix for the box model? In the box model you have the element, the space around it (padding), then the border, and the margin after that. Box-sizing: border-box is the fix for the box model.
